@@ -69,6 +69,14 @@ flutter test
 
 相关说明见 [ohos/README.md](ohos/README.md)。
 
-## License
+## 开源协议
 
-This project is licensed under the GNU General Public License v3.0.
+本项目使用 `GPL-3.0` 协议开源。
+
+这意味着：
+
+- 你可以使用、修改和分发这个项目
+- 如果你分发了修改后的版本，也必须继续公开对应源码
+- 不适合做闭源再发布
+
+完整协议见 [LICENSE](./LICENSE)。
